@@ -1,0 +1,5 @@
+[wrap-file]
+source_url=https://www.netlib.org/clapack/clapack-3.2.1-CMAKE.tgz
+source_filename=clapack-3.2.1-CMAKE.tgz
+directory=clapack-3.2.1-CMAKE
+source_hash=0b3f782bc24845d85f36bafbff0f2f1384dc72df730fda4e7924ec1a70baca5a
