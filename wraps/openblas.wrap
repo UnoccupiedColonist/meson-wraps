@@ -1,0 +1,5 @@
+[wrap-file]
+source_url=https://github.com/xianyi/OpenBLAS/archive/v0.3.7.zip
+source_filename=v0.3.7.zip
+directory=OpenBLAS-0.3.7
+source_hash=ecc5befd8c71863d5099db9d9e8b61dd030e33c40b64ddda44efba3cd0f5fb8d
