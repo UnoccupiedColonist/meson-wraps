@@ -1,0 +1,10 @@
+[wrap-file]
+directory=xsimd-7.4.4
+
+source_url=https://github.com/xtensor-stack/xsimd/archive/7.4.4.zip
+source_filename=xsimd-7.4.4.zip
+source_hash=527153c8c6018a91d0f33becbe723ab97493e30a7311e07379f0d5d0a3ed9016
+
+patch_url=https://github.com/kyonifer/meson-wraps/raw/master/zips/xsimd-7.4.4-patches-1.zip 
+patch_filename=xsimd-7.4.4-patches-1.zip 
+patch_hash=bbfde9275f10486db5f93b35e7c3870721c9f729d61877bc40ef5f4a6089147a
