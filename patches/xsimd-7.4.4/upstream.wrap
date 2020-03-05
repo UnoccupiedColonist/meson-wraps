@@ -1,0 +1,6 @@
+[wrap-file]
+directory=xsimd-7.4.4
+
+source_url=https://github.com/xtensor-stack/xsimd/archive/7.4.4.zip
+source_filename=xsimd-7.4.4.zip
+source_hash=527153c8c6018a91d0f33becbe723ab97493e30a7311e07379f0d5d0a3ed9016
